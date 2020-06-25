@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="category_lists">Lists</string>
+    <string name="welcome">Welcome</string>
+    <string name="city_name">Mumbai</string>
+    <string name="get_started">get started</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="beaches">Beaches</string>
+    <string name="museums">Museums</string>
+    <string name="events">Events</string>
+
+
+
+    <!--beaches names -->
+
+    <string name="Aska_beach_name">Aska Beach</string>
+    <string name="Gorai_beach_name">Gorai Beach</string>
+
+
+
+    <!--beaches address -->
+
+    <string name="Aska_beach_address">Address: Aksa village, Malad, Mumbai, India</string>
+    <string name="Gorai_beach_address">Address: Borivali West, Gorai, Mumbai, Maharashtra 400091</string>
+
+</resources>
