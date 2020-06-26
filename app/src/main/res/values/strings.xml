@@ -10,17 +10,65 @@
     <string name="events">Events</string>
 
 
-
     <!--beaches names -->
-
     <string name="Aska_beach_name">Aska Beach</string>
     <string name="Gorai_beach_name">Gorai Beach</string>
-
+    <string name="Marve_beach_name">Marve Beach</string>
+    <string name="Versova_beach_name">Versova Beach</string>
+    <string name="Juhu_beach_name">Juhu Beach</string>
+    <string name="Dadar_beach_name">Dadar Beach</string>
+    <string name="Girgaum_beach_name">Girgaum Chowpatty</string>
 
 
     <!--beaches address -->
-
     <string name="Aska_beach_address">Address: Aksa village, Malad, Mumbai, India</string>
     <string name="Gorai_beach_address">Address: Borivali West, Gorai, Mumbai, Maharashtra 400091</string>
+    <string name="Marve_beach_address">Address: Western Suburb, Malad, Mumbai</string>
+    <string name="Versova_beach_address">Address: Bharat Nagar, Versova, Andheri West, Mumbai</string>
+    <string name="Juhu_beach_address">Address: Juhu Beach, Juhu Tara Rd, Juhu, Mumbai</string>
+    <string name="Dadar_beach_address">Address: Koliwada Road, Bhati Koliwada, Bhati Gaon, Madh, Mumbai</string>
+    <string name="Girgaum_beach_address">Address: Northern end of Marine Drive, South Mumbai</string>
+    
+    
+    <!--events name-->
+    <string name="cylin">HikerWolf - Mumbai Midnight Cycling</string>
+    <string name="ahinsa">AHINSA THE EARTH RUN</string>
+    <string name="tour">Mumbai Heritage Walking Tour</string>
+
+
+    <!--events address -->
+    <string name="cyclin_address">Address: Colaba Causeway, Mumbai, India</string>
+    <string name="ahinsa_address">Address: JVPD Grounds Devle Road, Juhu, Mumbai, India</string>
+    <string name="tour_address">Address: Malad, Mumabi, India</string>
+
+
+    <!--restaurants name-->
+    <string name="res1">Namak - Indian Specialty Restaurant</string>
+    <string name="res2">JW cafe</string>
+    <string name="res3">The Table</string>
+    <string name="res4">Fifty Five East</string>
+    <string name="res5">Nawab Saheb</string>
+
+
+    <!--restaurants Add-->
+    <string name="res1_add">Address: Hotel Sahara Star, opposite Terminal 1, Navpada, Vile Parle East, Vile Parle, Mumbai</string>
+    <string name="res2_add">Address: Chhatrapati Shivaji International Airport Area, Vile Parle, Mumbai</string>
+    <string name="res3_add">Address: Ground Floor, Kalapesi Trust Building, Opposite Dhanraj Mahal</string>
+    <string name="res4_add">Address: Grand Hyatt, Off, Western Express Hwy, Santacruz East, Mumbai</string>
+    <string name="res5_add">Address: Renaissance Mumbai Convention Centre Hotel, Powai, Mumbai</string>
+
+
+    <!--Museums Add-->
+    <string name="mus1_add">Address: 91 A, Rani Baug, Veer Mata Jijbai Bhonsle Udyan, Dr Baba Saheb Ambedkar Rd</string>
+    <string name="mus2_add">Address: 19, Laburnum Rd, near Police Station, Babulnath, Gamdevi, Mumbai</string>
+    <string name="mus3_add">Address: Worli, Mumbai, Maharashtra 400018</string>
+    <string name="mus4_add">Address: 161B, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai</string>
+
+
+    <!--Museums Name-->
+    <string name="mus1">Dr. Bhau Daji Lad Museum</string>
+    <string name="mus2">Mani Bhavan Gandhi Sangrahalaya</string>
+    <string name="mus3">Nehru Science Centre</string>
+    <string name="mus4">Jehangir Art Gallery</string>
 
 </resources>

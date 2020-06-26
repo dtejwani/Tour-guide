@@ -1,10 +1,11 @@
 package com.dhsk.tourguide;
 
 import android.os.Bundle;
-import android.widget.TableLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
+
+import com.google.android.material.tabs.TabLayout;
 
 public class listCategory extends AppCompatActivity {
 
@@ -18,7 +19,8 @@ public class listCategory extends AppCompatActivity {
 
         viewPager.setAdapter(adapter);
 
-        TableLayout tabLayout = (TableLayout) findViewById(R.id.tabs);
+        TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
+
         tabLayout.setupWithViewPager(viewPager);
     }
 }
