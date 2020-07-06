@@ -101,4 +101,28 @@
     <string name="site7_add">Noida Mor, Pandav Nagar, New Delhi</string>
     <string name="site8_add">Jama Masjid Rd, Chandni Chowk, New Delhi,</string>
 
+    <!--Delhi Res names-->
+    <string name="del_res1">DUM PUKHT</string>
+    <string name="del_res2">THE SPICE ROUTE</string>
+    <string name="del_res3">MOTI MAHAL DELUX</string>
+    <string name="del_res4">1911 RESTAURANT</string>
+    <string name="del_res5">TRAVERTINO</string>
+    <string name="del_res6">THE YUM YUM TREE</string>
+    <string name="del_res7">MAGIQUE</string>
+    <string name="del_res8">SAKURA</string>
+
+    <!--Delhi Res Address-->
+    <string name="del_res1_add">ITC Maurya, Diplomatic Enclave, Sardar Patel Marg, Delhi</string>
+    <string name="del_res2_add">The Imperial Hotel, Janpath, Delhi</string>
+    <string name="del_res3_add">Greater Kailash 1, Delhi</string>
+    <string name="del_res4_add">The Imperial Hotel, Janpath, Delhi</string>
+    <string name="del_res5_add"> Dr Zakir Hussain Marg, Delhi</string>
+    <string name="del_res6_add">First Floor, Community Centre, New Friends Colony, Delhi</string>
+    <string name="del_res7_add">Gate No. 3, Garden of 5 Senses, Westend Marg, Said ul Ajaib, Delhi</string>
+    <string name="del_res8_add">The Metropolitan Hotel, Bangla Sahib Road, Delhi</string>
+
+
+
+
+
 </resources>
