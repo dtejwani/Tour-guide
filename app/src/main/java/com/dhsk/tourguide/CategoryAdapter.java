@@ -41,7 +41,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return mContext.getString(R.string.museums);
         } else {
-            return mContext.getString(R.string.events);
+            return mContext.getString(R.string.his_site);
         }
     }
 }

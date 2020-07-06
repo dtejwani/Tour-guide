@@ -29,6 +29,17 @@ public class EventsFragment  extends Fragment {
             events.add(new Place(R.string.ahinsa, R.string.ahinsa_address, R.drawable.marathon, 4.3));
             events.add(new Place(R.string.tour, R.string.tour_address, R.drawable.tour, 4.1));
         }
+        else if(city_num==2){
+            events.add(new Place(R.string.site1, R.string.site1_add, R.drawable.delhi_site1, 4.7));
+            events.add(new Place(R.string.site2, R.string.site2_add, R.drawable.delhi_site2, 4.5));
+            events.add(new Place(R.string.site3, R.string.site3_add, R.drawable.delhi_site3, 4.4));
+            events.add(new Place(R.string.site4, R.string.site4_add, R.drawable.delhi_site4, 4.8));
+            events.add(new Place(R.string.site5, R.string.site5_add, R.drawable.delhi_site5, 4.8));
+            events.add(new Place(R.string.site6, R.string.site6_add, R.drawable.delhi_site6, 4.9));
+            events.add(new Place(R.string.site7, R.string.site7_add, R.drawable.delhi_site7, 4.4));
+            events.add(new Place(R.string.site8, R.string.site8_add, R.drawable.delhi_site8, 4.0));
+        }
+
         placeAdapter adapter = new placeAdapter(getActivity(), events, R.color.forstyle);
 
         final ListView listView = (ListView) rootView.findViewById(R.id.list);
