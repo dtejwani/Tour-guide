@@ -37,7 +37,10 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         if (position == 0) {
             return mContext.getString(R.string.restaurant);
         } else if (position == 1) {
-            return mContext.getString(R.string.beaches);
+            if(city_num==2){
+                return mContext.getString(R.string.market);
+            }
+            else {return mContext.getString(R.string.beaches);}
         } else if (position == 2) {
             return mContext.getString(R.string.museums);
         } else {

@@ -5,12 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/mumbai"
+
     tools:context=".MainActivity">
 
         <TextView
             style="@style/welcomeStyle"
             android:layout_marginTop="16dp"
+            android:textColor="#000000"
             android:text="@string/welcome" />
 
         <RadioGroup

@@ -8,6 +8,7 @@
     <string name="beaches">Beaches</string>
     <string name="museums">Museums</string>
     <string name="events">Events</string>
+    <string name="market">Markets</string>
     <string name="his_site">Historical Sites</string>
     <string name="city1_name">Mumbai</string>
     <string name="city2_name">Delhi</string>
@@ -121,7 +122,45 @@
     <string name="del_res7_add">Gate No. 3, Garden of 5 Senses, Westend Marg, Said ul Ajaib, Delhi</string>
     <string name="del_res8_add">The Metropolitan Hotel, Bangla Sahib Road, Delhi</string>
 
+    <!--Delhi Museum Name-->
+    <string name="del_mus1">National Museum</string>
+    <string name="del_mus2">National Handicrafts and Handlooms Museum</string>
+    <string name="del_mus3">National Rail Museum</string>
+    <string name="del_mus4">Shankar’s International Dolls Museum</string>
+    <string name="del_mus5">National Gallery of Modern Art</string>
+    <string name="del_mus6"> Nehru Memorial Museum And Library</string>
+    <string name="del_mus7">National Science Centre</string>
+    <string name="del_mus8">Indian Air Force Museum</string>
 
+    <!--Delhi Museum Address-->
+    <string name="del_mus1_add">Janpath Rd, Rajpath Area, Central Secretariat, New Delhi</string>
+    <string name="del_mus2_add">Bhairon Marg, Pragati Maidan, New Delhi</string>
+    <string name="del_mus3_add">Chanakyapuri, New Delhi, Delhi 11002</string>
+    <string name="del_mus4_add">Nehru House, 4 Bahadur Shah Zafar Marg, Delhi</string>
+    <string name="del_mus5_add">Jaipur House, Shershah Road, Delhi</string>
+    <string name="del_mus6_add">Teen Murti Bhavan, Teen Murti Marg, Teen Murti Marg Area, New Delhi</string>
+    <string name="del_mus7_add">Bhairon Marg, Pragati Maidan, New Delhi</string>
+    <string name="del_mus8_add">Palam, New Delhi, Delhi 110010</string>
+
+    <!--Delhi Markets-->
+    <string name="del_mar1">Khan Market</string>
+    <string name="del_mar2">Daryaganj Sunday Book Market</string>
+    <string name="del_mar3">Janpath Market</string>
+    <string name="del_mar4">Karol Bagh Market</string>
+    <string name="del_mar5">Chandni Chowk Market</string>
+    <string name="del_mar6">Spice Market</string>
+    <string name="del_mar7">Sadar Bazaar</string>
+    <string name="del_mar8">Gole Market</string>
+
+    <!--Delhi Market Address-->
+    <string name="del_mar1_add">61A, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003</string>
+    <string name="del_mar2_add"> Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Daryaganj, New Delhi</string>
+    <string name="del_mar3_add">Janpath Rd, Janpath, Connaught Place, New Delhi</string>
+    <string name="del_mar4_add"> Block 1, WEA, Karol Bagh, New Delhi, Delhi</string>
+    <string name="del_mar5_add">2573, Nai Sarak, Raghu Ganj, Roshanpura, Old Delhi, New Delhi</string>
+    <string name="del_mar6_add">Khari Baoli Rd, Fatehpuri, Chandni Chowk, New Delhi</string>
+    <string name="del_mar7_add">SADAR BAZAR, NORTH DELHI, DELHI</string>
+    <string name="del_mar8_add">Rajapur, Pocket 12, Sector 9, Rohini, Delhi, 110085</string>
 
 
 

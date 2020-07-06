@@ -33,6 +33,16 @@ public class BeachesFragment extends Fragment {
             beaches.add(new Place(R.string.Dadar_beach_name, R.string.Dadar_beach_address, R.drawable.dadar_beach, 3.8));
             beaches.add(new Place(R.string.Versova_beach_name, R.string.Versova_beach_address, R.drawable.versove_beach, 4.2));
         }
+        else if(city_num==2){
+            beaches.add(new Place(R.string.del_mar1, R.string.del_mar1_add,R.drawable.del_mar1, 4.0));
+            beaches.add(new Place(R.string.del_mar2, R.string.del_mar2_add,R.drawable.del_mar2, 4.2));
+            beaches.add(new Place(R.string.del_mar3, R.string.del_mar3_add,R.drawable.del_mar3, 4.1));
+            beaches.add(new Place(R.string.del_mar4, R.string.del_mar4_add,R.drawable.del_mar4, 3.7));
+            beaches.add(new Place(R.string.del_mar5, R.string.del_mar5_add,R.drawable.del_mar5, 3.8));
+            beaches.add(new Place(R.string.del_mar6, R.string.del_mar6_add,R.drawable.del_mar6, 3.5));
+            beaches.add(new Place(R.string.del_mar7, R.string.del_mar7_add,R.drawable.del_mar7, 3.8));
+            beaches.add(new Place(R.string.del_mar8, R.string.del_mar8_add,R.drawable.del_mar8, 4.2));
+        }
         placeAdapter adapter = new placeAdapter(getActivity(), beaches, R.color.forstyle);
         final ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
