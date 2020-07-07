@@ -5,53 +5,110 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-
     tools:context=".MainActivity">
 
-        <TextView
-            style="@style/welcomeStyle"
-            android:layout_marginTop="16dp"
-            android:textColor="#000000"
-            android:text="@string/welcome" />
+    <TextView
+        style="@style/welcomeStyle"
+        android:layout_marginTop="16dp"
+        android:text="@string/welcome"
+        android:textColor="#000000" />
 
-        <RadioGroup
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="8dp"
-            android:orientation="vertical">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
 
-            <RadioButton
-                android:id="@+id/city1"
-                android:text="@string/city1_name"
-                style="@style/rad_style"/>
-            <RadioButton
-                android:id="@+id/city2"
-                android:text="@string/city2_name"
-                style="@style/rad_style"/>
-            <RadioButton
-                android:id="@+id/city3"
-                android:text="@string/city3_name"
-                style="@style/rad_style"/>
-            <RadioButton
-                android:id="@+id/city4"
-                android:text="@string/city4_name"
-                style="@style/rad_style"/>
-            <RadioButton
-                android:id="@+id/city5"
-                android:text="@string/city5_name"
-                style="@style/rad_style"/>
-            <RadioButton
-                android:id="@+id/city6"
-                android:text="@string/city6_name"
-                style="@style/rad_style"/>
-        </RadioGroup>
-        <Button
-            android:id="@+id/getStarted"
-            style="@style/buttonStyle"
-            android:layout_gravity="center_horizontal"
-            android:layout_margin="20dp"
-            android:onClick="get_started"
-            android:text="@string/get_started" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
 
-    </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/mum_btn"
+                    android:layout_width="150dp"
+                    android:background="@drawable/main_mum"
+                    android:layout_marginLeft="16dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="5dp"
+                    android:scaleType="centerCrop"
+                    android:padding="2dp"></ImageButton>
+
+                <TextView
+                    style="@style/city_name"
+                    android:text="@string/city1_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/del_btn"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="5dp"
+                    android:padding="2dp"
+                    android:layout_marginLeft="16dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/main_del"></ImageButton>
+
+                <TextView
+                    style="@style/city_name"
+                    android:text="@string/city2_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/jai_btn"
+                    android:layout_marginLeft="16dp"
+                    android:layout_width="150dp"
+                    android:scaleType="centerCrop"
+                    android:layout_height="150dp"
+                    android:layout_margin="5dp"
+                    android:padding="2dp"
+                    android:src="@drawable/main_jai"></ImageButton>
+
+                <TextView
+                    style="@style/city_name"
+                    android:text="@string/city5_name" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/ban_btn"
+                    android:layout_marginLeft="16dp"
+                    android:layout_width="150dp"
+                    android:scaleType="centerCrop"
+                    android:layout_height="150dp"
+                    android:layout_margin="5dp"
+                    android:padding="2dp"
+                    android:src="@drawable/main_ban"></ImageButton>
+
+                <TextView
+                    style="@style/city_name"
+                    android:text="@string/city3_name" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+</LinearLayout>
+
+
 
