@@ -40,7 +40,17 @@ public class RestaurantsFragment extends Fragment {
             places.add(new Place(R.string.del_res7, R.string.del_res7_add, R.drawable.del_res7, 4.2));
             places.add(new Place(R.string.del_res8, R.string.del_res8_add, R.drawable.del_res8, 3.9));
         }
+        else if(i==3){
+            places.add(new Place(R.string.ben_res1,R.string.ben_res1_add,R.drawable.ben_res1,4.7));
+            places.add(new Place(R.string.ben_res2,R.string.ben_res2_add,R.drawable.ben_res2,4.6));
+            places.add(new Place(R.string.ben_res3,R.string.ben_res3_add,R.drawable.ben_res3,4.5));
+            places.add(new Place(R.string.ben_res4,R.string.ben_res4_add,R.drawable.ben_res4,4.4));
+            places.add(new Place(R.string.ben_res5,R.string.ben_res5_add,R.drawable.ben_res5,4.3));
+            places.add(new Place(R.string.ben_res6,R.string.ben_res6_add,R.drawable.ben_res6,4.2));
+            places.add(new Place(R.string.ben_res7,R.string.ben_res7_add,R.drawable.ben_res7,4.1));
+            places.add(new Place(R.string.ben_res8,R.string.ben_res8_add,R.drawable.ben_res8,3.9));
 
+        }
             placeAdapter adapter = new placeAdapter(getActivity(), places, R.color.forstyle);
 
             final ListView listView = (ListView) rootView.findViewById(R.id.list);

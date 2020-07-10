@@ -163,6 +163,46 @@
     <string name="del_mar6_add">Khari Baoli Rd, Fatehpuri, Chandni Chowk, New Delhi</string>
     <string name="del_mar7_add">SADAR BAZAR, NORTH DELHI, DELHI</string>
     <string name="del_mar8_add">Rajapur, Pocket 12, Sector 9, Rohini, Delhi, 110085</string>
+<!--****************************************************************************************************************************************-->
+
+    <!--Banglore Res names-->
+    <string name="ben_res1">Zoey: Good Vibes Only</string>
+    <string name="ben_res2">The Pallet - Brewhouse and Kitchen</string>
+    <string name="ben_res3">Karavalli</string>
+    <string name="ben_res4">Raj Pavilion - Restaurants In Bengaluru</string>
+    <string name="ben_res5">The Creek - The Den Bengaluru</string>
+    <string name="ben_res6">Shiro</string>
+    <string name="ben_res7">Spice Terrace</string>
+    <string name="ben_res8">Jamavar</string>
+
+    <!--Banglore Res Address-->
+    <string name="ben_res1_add">14/1, Kodathi Gate, Sarjapura Road, Oppsite St Patricks Academy, Bengaluru</string>
+    <string name="ben_res2_add">HVP Crest, ITPL Main Rd, Thigalarapalya, Whitefield, Bengaluru</string>
+    <string name="ben_res3_add">Vivanta Bengaluru, 66, Residency Rd, Bengaluru</string>
+    <string name="ben_res4_add">25, Windsor Square, Golf Course Road, Bengaluru</string>
+    <string name="ben_res5_add">ITPL Main Rd, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru</string>
+    <string name="ben_res6_add">222, 3rd Floor, "Comet UB City, Vittal Mallya Rd, Bengaluru</string>
+    <string name="ben_res7_add">JW Marriott Bengaluru, 24/1, Vittal Mallya Rd, Ashok Nagar, Bengaluru</string>
+    <string name="ben_res8_add">Lobby level, The Leela Palace Bengaluru, 23, HAL Old Airport Rd, Bengaluru</string>
+
+
+    <!--Banglore sites names -->
+    <string name="ben_site1">Bangalore Palace</string>
+    <string name="ben_site2">Cubbon Park</string>
+    <string name="ben_site3">Tipu Sultan Summer Palace</string>
+    <string name="ben_site4">Lalbagh Botanical Garden</string>
+    <string name="ben_site5">Bangalore Fort</string>
+    <string name="ben_site6">St. Mary\'s Basilica</string>
+
+
+
+    <!--Banglore Res Address-->
+    <string name="ben_site1_add">Vasanth Nagar, Bengaluru</string>
+    <string name="ben_site2_add">Kasturba Road, Behind High Court of Karnataka Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru</string>
+    <string name="ben_site3_add">Tippu Sultan Palace Rd, Chamrajpet, Bengaluru</string>
+    <string name="ben_site4_add"> Mavalli, Bengaluru</string>
+    <string name="ben_site5_add"> Krishna Rajendra Rd, New Tharagupet, Bengaluru</string>
+    <string name="ben_site6_add">Msgr. F. Noronha Road, Shivaji Nagar, Bengaluru</string>
 
 
 
