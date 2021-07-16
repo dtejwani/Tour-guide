@@ -6,3 +6,5 @@ It includes:
 Building layouts to display those lists of data.
 Navigating between those lists using intents and multiple Activities or a ViewPager.
 Creating your own custom classes.
+
+It is part of UDACITY Android learning course projects
